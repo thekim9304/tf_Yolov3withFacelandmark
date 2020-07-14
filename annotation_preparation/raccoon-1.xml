@@ -1,0 +1,28 @@
+<annotation>
+  <folder>images</folder>
+  <filename>raccoon-1.jpg</filename>
+  <path>/Users/home/raccoon-1.jpg</path>
+  <size>
+    <height>416</height>
+    <width>416</width>
+    <depth>3</depth>
+  </size>
+  <object>
+    <bbox>
+      <xmin>10</xmin>
+      <ymin>10</ymin>
+      <xmax>50</xmax>
+      <ymax>50</ymax>
+    </bbox>
+    <landmarks>10 20 30 40 50 60 10 20 30</landmarks>
+  </object>
+  <object>
+    <bbox>
+      <xmin>10</xmin>
+      <ymin>10</ymin>
+      <xmax>50</xmax>
+      <ymax>50</ymax>
+    </bbox>
+    <landmarks>10 20 30 40 50 60 10 20 30</landmarks>
+  </object>
+</annotation>
